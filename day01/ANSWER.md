@@ -1,4 +1,4 @@
-## Day 01 Answers
+# Day 01 Answers
 
 ## Part One
 1482
